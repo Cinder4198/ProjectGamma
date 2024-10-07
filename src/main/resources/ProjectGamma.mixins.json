@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.deftera.ProjectGamma.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "ProjectGammaMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
